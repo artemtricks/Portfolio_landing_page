@@ -14,3 +14,7 @@ You can check it [HERE](https://artemtricks.github.io/Portfolio_landing_page/) :
 <br>
 <br>
 ![screenshots](https://github.com/artemtricks/Portfolio_landing_page/blob/main/phone-screenshot/photo_2022-12-08_16-20-47.jpg)
+<br>
+<br>
+<br>
+![screenshots](https://github.com/artemtricks/Portfolio_landing_page/blob/main/phone-screenshot/photo_2022-12-08_16-20-53.jpg)
